@@ -147,6 +147,7 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 
 ## 業界論
 -  [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
+-  [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
 
 ## ポスドク編
 
