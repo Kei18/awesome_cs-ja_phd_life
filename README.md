@@ -1,8 +1,13 @@
-Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Awesome CS-Ja PhD Life
 ---
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![](https://img.shields.io/badge/PhD-computer%20science-blue)
 
 博士課程をサバイブするために参考になりそう/モチベになりそうな記事や資料のリスト.
 日本語で読めるCS関連のものが中心です.
+
+![](./assets/phd042012s.gif)
 
 ## 前置き
 
@@ -17,6 +22,10 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 - 芋づる式に記事引っ張っていることもあるので, 偏りがあるのは承知しています
 - 著者ぼかしたい or 削除要請はもちろん受け付けます
 - 敬称略です. 怖い目をしないでください...
+
+## Table of Contents
+
+(in construction)
 
 ---
 
@@ -51,6 +60,10 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
 
+### 英語との付き合い方
+
+404
+
 ## 研究ツール
 
 ### 全般
@@ -79,6 +92,18 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 - [Microsoft Research Asia Ph.D. Fellowship 2019 体験談](https://inaguma0810.hatenablog.com/entry/2020/06/18/193438) [2018, [@HirofumiInaguma](https://twitter.com/HirofumiInaguma)]
 - [Microsoft Research Asia Fellowship応募のすすめ](https://blog.junkato.jp/ja/posts/2014-05-16-microsoft-research-asia-fellowship/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [京都大学白眉プロジェクトに採択されるまで](https://hermite.jp/post/2021/hakubi/) [2021, [Han Bao](https://hermite.jp/)]
+
+## はじめての査読
+
+null
+
+## ネットワーキング
+
+418
+
+## 学会運営
+
+- [【旧サイト記事】「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
 
 ## 博士課程に進むべきか
 
@@ -137,10 +162,6 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
 - [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@_kei18](https://twitter.com/_kei18)]
 
-## 学会運営
-
-- [【旧サイト記事】「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
-
 ## 就職活動
 
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
@@ -151,11 +172,14 @@ Awesome CS-Ja PhD Life [![Awesome](https://awesome.re/badge.svg)](https://awesom
 
 ## ポスドク編
 
-null
-
+segmentation fault
 
 ## uncategorized
 
 - [ハッカソンのススメ](https://akaria.hatenablog.com/entry/2017/12/01/113620) [2017, [@AkariAsai](https://twitter.com/AkariAsai)]
 - [ABCIで回そう爆速深層学習 (基礎編)](https://speakerdeck.com/yoshipon/fastest-deep-learning-on-abci) [2022, [@yoshipon0520](https://twitter.com/yoshipon0520)]
 - [博士号取得後(2023年3月見込み)のポジションを探しています](https://kei18.github.io/posts/looking-for-next-position-ja.html) [2022, [@_kei18](https://twitter.com/_kei18)]
+
+## 関連研究
+
+- ["Other similar collections," Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice#other-similar-collections) [2022, [@pliang279](https://github.com/pliang279)]
