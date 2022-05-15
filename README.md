@@ -6,24 +6,15 @@ Awesome CS-Ja PhD Life
 
 博士課程をサバイブするために参考になりそう/モチベになりそうな記事や資料のリスト。
 日本語で読めるCS関連のものが中心です。
+卒修論に役立つものも掲載しますし、その後のキャリアの話も掲載します。
 
 ![](./assets/phd042012s.gif)
 
 ## 前置き
 
-- __趣味運営です。__ 誰かの約に立てばそれで良い。
+- __趣味運営です。__ 誰かの約に立てばそれで良い。[方針](./CONTRIBUTION.md) も参照してください
 - 私の/あの子のawesomeな記事が載ってない! => __プルリク等大歓迎です!__
 - 私の記事はawesomeじゃない => __博士課程/博士持ちってだけで既にawesomeですよ!__
-- 卒修論に役立つものも掲載しますし、その後のキャリアの話も掲載します
-
-### 取り決め
-
-- 情報の鮮度が落ちすぎているものは掲載しません
-- リンク切れ or 無料で見れないもの (Slideshare 注意) は掲載しません
-- アドベントカレンダーに掲載されてるものはリンクだけ張っていたりします
-- 芋づる式に記事引っ張っていることもあるので、偏りがあるのは承知しています
-- 著者ぼかしたい or 削除要請はもちろん受け付けます
-- 敬称略です。怖い目をしないでください...
 
 ## Table of Contents
 
@@ -90,7 +81,7 @@ Awesome CS-Ja PhD Life
 ### 全般
 
 - [研究に便利なツールまとめ2021](https://note.com/moskomule/n/nb269e9d61631) [2021, [@mosko_mule](https://twitter.com/mosko_mule)]
-- [汎用研究ツール群](https://kei18.github.io/posts/research-tool.html) [2021, [@_kei18](https://twitter.com/_kei18)]
+- [汎用研究ツール群](https://kei18.github.io/posts/research-tool.html) [2021, [@\_kei18](https://twitter.com/_kei18)]
 - [研究系で使ってるツール](https://nzw0301.github.io/2018/03/tools) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)
 
@@ -188,14 +179,14 @@ Awesome CS-Ja PhD Life
 
 - [Microsoft Research Internship アルムナイ Advent Calendar 2020](https://adventar.org/calendars/5107)
 - [OMRON SINIC X (OSX) のインターン感想](https://syuntoku14.github.io/post/omron/) [2022, [@t_kitamura14](https://twitter.com/t_kitamura14)]
-- [OMRON SINIC X (OSX) インターン記](https://kei18.github.io/posts/20211129_osx-intern.html) [2021, [@_kei18](https://twitter.com/_kei18)]
+- [OMRON SINIC X (OSX) インターン記](https://kei18.github.io/posts/20211129_osx-intern.html) [2021, [@\_kei18](https://twitter.com/_kei18)]
 
 ### 過程
 
 - [cvpaper.challenge (Note)](https://note.com/cvpaperchallenge/)
 - [カーネギーメロン大学での1年目を振り返る](https://sff8.hatenablog.com/entry/2021/08/08/170310) [2021, [@s1wase](https://twitter.com/s1wase)]
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
-- [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@_kei18](https://twitter.com/_kei18)]
+- [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
 
 ### ポスドク編
 
