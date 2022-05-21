@@ -18,8 +18,7 @@ Awesome CS-Ja PhD Life
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-<details>
-<summary>Table of Contents</summary>
+**Table of Contents**
 
 - [心構え](#%E5%BF%83%E6%A7%8B%E3%81%88)
 - [研究の進め方](#%E7%A0%94%E7%A9%B6%E3%81%AE%E9%80%B2%E3%82%81%E6%96%B9)
@@ -41,7 +40,7 @@ Awesome CS-Ja PhD Life
 - [コミュニティ運営](#%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E9%81%8B%E5%96%B6)
 - [博士課程に進むべきか](#%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B%E3%81%AB%E9%80%B2%E3%82%80%E3%81%B9%E3%81%8D%E3%81%8B)
 - [海外PhDを目指す](#%E6%B5%B7%E5%A4%96phd%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99)
-- [就職活動](#%E5%B0%B1%E8%81%B7%E6%B4%BB%E5%8B%95)
+- [就職活動・キャリア](#%E5%B0%B1%E8%81%B7%E6%B4%BB%E5%8B%95%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2)
 - [研究生活記](#%E7%A0%94%E7%A9%B6%E7%94%9F%E6%B4%BB%E8%A8%98)
   - [博士課程を振返って](#%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B%E3%82%92%E6%8C%AF%E8%BF%94%E3%81%A3%E3%81%A6)
   - [社会人学生](#%E7%A4%BE%E4%BC%9A%E4%BA%BA%E5%AD%A6%E7%94%9F)
@@ -54,7 +53,6 @@ Awesome CS-Ja PhD Life
   - [英語](#%E8%8B%B1%E8%AA%9E)
   - [日本語](#%E6%97%A5%E6%9C%AC%E8%AA%9E)
 
-</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
