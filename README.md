@@ -62,6 +62,7 @@ Awesome CS-Ja PhD Life
 ## 心構え
 
 - [研究をはじめる前に知っておいて欲しい7つのこと](https://speakerdeck.com/kaityo256/welcome-to-lab) [2021, [@kaityo256](https://twitter.com/kaityo256)]
+- [博士の話](https://gist.github.com/kaityo256/bd73365ec4f756dc305b6f612343d27a) [2020, [@kaityo256](https://twitter.com/kaityo256)]
 - [ロボット対話知能研究室へようこそ](http://pomdp.net/docs/20220427_intro_public_koichiro.slides.pdf) [2022, [@caesar_wanya](https://twitter.com/caesar_wanya/status/1518877284408602624)]
 - [大学院・研究者を目指す人へ](http://www7b.biglobe.ne.jp/~masaoamano/~masaoamano/da-xue-yuan-yan-jiu-zhewo-mu-zhisu-renhe.html) [[長崎大学水産学部海棲哺乳類研究室](http://www7b.biglobe.ne.jp/~masaoamano/)]
 - [コンピュータ科学の博士課程にきて初めて分かったこと4つ](https://blog.junkato.jp/ja/posts/2012-11-13-cs-phd-findings/) [2012, [@arcatdmz](https://twitter.com/arcatdmz)]
@@ -108,6 +109,7 @@ Awesome CS-Ja PhD Life
 - [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441) [2015, [@forthshinji](https://twitter.com/forthshinji)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
 - [イショティハドゥス的スライドの作り方](https://qiita.com/Ishotihadus/items/01a76cd3f7afebcb65b1) [2021, [@Ishotihadus](https://twitter.com/Ishotihadus)]
+- [プレゼンテーションに悩むすべての人達のために：プレゼンテーションの世界標準「構造的プレゼンテーション」](https://kzhk.hatenadiary.org/entry/20091215/p2) [2009, [@kzhk](https://profile.hatena.ne.jp/kzhk/)]
 
 ### 英語との付き合い方
 
@@ -145,6 +147,7 @@ Awesome CS-Ja PhD Life
 - [日本からでも応募できる情報科学系Fellowship](https://blog.junkato.jp/ja/posts/2015-09-26-is-cs-fellowship-application-from-japan/) [2015, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [Microsoft Research Asia Ph.D. Fellowship 2019 体験談](https://inaguma0810.hatenablog.com/entry/2020/06/18/193438) [2018, [@HirofumiInaguma](https://twitter.com/HirofumiInaguma)]
 - [Microsoft Research Asia Fellowship応募のすすめ](https://blog.junkato.jp/ja/posts/2014-05-16-microsoft-research-asia-fellowship/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
+- [あらためて、ACT-Xをご紹介します](https://note.com/jst_kisokenkyu/n/n51bb34b3dc93) [2021, [@JST_Kisokenkyu](https://twitter.com/JST_Kisokenkyu)]
 - [京都大学白眉プロジェクトに採択されるまで](https://hermite.jp/post/2021/hakubi/) [2021, [Han Bao](https://hermite.jp/)]
 
 ## 査読
@@ -184,11 +187,12 @@ Awesome CS-Ja PhD Life
 - [コンピュータサイエンスでPhDプログラムに留学したい方へのアドバイス](https://note.com/ryosuzuki/n/n60d53f04966c) [2020, [@HCI_Comics](https://twitter.com/HCI_Comics)]
 - [留学の経緯と準備](https://drive.google.com/file/d/16O8eWYnsmzv-RXSN0vKZ17y96wZEvYs1/view) [2020, [@Yuki_Doradora](https://twitter.com/Yuki_Doradora)]
 
-## 就職活動
+## 就職活動・キャリア
 
 - [研究者として海外就活した話](https://www.evernote.com/shard/s733/client/snv?noteGuid=5667b196-fc15-4cf9-b21b-3dc42557294f&noteKey=4a33db22438e5d8febac15ff538e0df6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs733%2Fsh%2F5667b196-fc15-4cf9-b21b-3dc42557294f%2F4a33db22438e5d8febac15ff538e0df6&title=%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B0%25B1%25E6%25B4%25BB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1) [2019]
 - [エディンバラ大学の教員になるまで]() [2019, [@michioh](https://twitter.com/michioh)]
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
+- [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
 
 ## 研究生活記
 
