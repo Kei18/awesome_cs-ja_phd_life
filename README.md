@@ -41,6 +41,10 @@ Awesome CS-Ja PhD Life
 - [先行研究被りの話](https://kanojikajino.github.io/2022-02-13/prior-work/) [2022, [@azaazarashi](https://twitter.com/azaazarashi)]
 - [研究で詰まっている時におススメな本](https://snowman-88888.hatenablog.com/entry/2021/08/29/161357) [2021, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 
+### 研究室の選び方
+
+- [自分に合った研究室を選ぶために](https://note.com/drinami/n/nccf6c3160955) [2019, [@drinami](https://twitter.com/drinami)]
+
 ### 研究テーマの見つけ方
 
 🤔
