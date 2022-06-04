@@ -57,7 +57,7 @@ Awesome CS-Ja PhD Life
 
 ---
 
-## 心構え
+## 心構え 👀
 
 - [研究をはじめる前に知っておいて欲しい7つのこと](https://speakerdeck.com/kaityo256/welcome-to-lab) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [博士の話](https://gist.github.com/kaityo256/bd73365ec4f756dc305b6f612343d27a) [2020, [@kaityo256](https://twitter.com/kaityo256)]
@@ -66,7 +66,7 @@ Awesome CS-Ja PhD Life
 - [コンピュータ科学の博士課程にきて初めて分かったこと4つ](https://blog.junkato.jp/ja/posts/2012-11-13-cs-phd-findings/) [2012, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [学際研究と壁](https://mercurial-caper-b6a.notion.site/f4d3b5d6554841869d7f67dafc6dbae5) [2021, [@resnant](https://twitter.com/resnant)]
 
-## 研究の進め方
+## 研究の進め方 ☕
 
 - [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179) [2019, [@guicho271828](https://twitter.com/guicho271828)]
 - [研究をはじめてから国際会議と学術論文に採択されるまで](https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban) [2019, [Katsuhiko Yamamoto](https://sites.google.com/site/kyama0321/ja)]
@@ -77,18 +77,24 @@ Awesome CS-Ja PhD Life
 - [先行研究被りの話](https://kanojikajino.github.io/2022-02-13/prior-work/) [2022, [@azaazarashi](https://twitter.com/azaazarashi)]
 - [研究で詰まっている時におススメな本](https://snowman-88888.hatenablog.com/entry/2021/08/29/161357) [2021, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 
+### 研究室の選び方
+
+- [自分に合った研究室を選ぶために](https://note.com/drinami/n/nccf6c3160955) [2019, [@drinami](https://twitter.com/drinami)]
+
 ### 研究テーマの見つけ方
 
 🤔
 
-### 論文の読み方 / 探し方
+### 論文 📖
+
+#### 読み方 / 探し方
 
 - [論文の読み方](https://speakerdeck.com/kaityo256/how-to-survey) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017) [2017, [@1T0T](https://twitter.com/1T0T)]
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
 
-### 論文の書き方
+#### 書き方 ✍️
 
 - [松尾組の論文の書き方](http://ymatsuo.com/japanese/ronbun_jpn.html) [2005, [@ymatsuo](https://twitter.com/ymatsuo)]
 - [松尾組の論文の書き方：英語論文](http://ymatsuo.com/japanese/ronbun_eng.html) [2006, [@ymatsuo](https://twitter.com/ymatsuo)]
@@ -96,28 +102,38 @@ Awesome CS-Ja PhD Life
 - [国際会議論文の読み方・書き方](http://phontron.com/slides/neubig15nlptutorial.pdf) [2015, [Graham Neubig](http://www.phontron.com/index.php?lang=ja)]
 - [論文執筆のためのチェックリスト](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf) [2020, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
 - [よい論文の書き方](https://rkmt.hatenadiary.org/entry/20101215/1292374172) [2010, [@rkmt](https://twitter.com/rkmt)]
+- [修論(D論)参考](https://rkmt.hatenadiary.org/entry/20101217/1292573279) [2010, [@rkmt](https://twitter.com/rkmt)]
 - [CMU教授直伝の論文の書き方](https://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613) [2016, [@yamaguchiyuto](https://twitter.com/yamaguchiyuto)]
 - [AI系トップカンファレンスへの論文採択に向けた試験対策](https://www.ai-gakkai.or.jp/jsai2020/wp-content/uploads/sites/10/2020/06/jsai2020_tutorial_suzuki_ver2.pdf) [2020, [Jun Suzuki](http://www.fai.cds.tohoku.ac.jp/members/js/index.html)]
 - [卒論の書き方](https://speakerdeck.com/kaityo256/happy-writing) [2020, [@kaityo256](https://twitter.com/kaityo256)]
 - [論文を書く上での規則](https://qiita.com/Ishotihadus/items/d6088aec3632545833e8) [2021,  [@Ishotihadus](https://twitter.com/Ishotihadus)]
 
-### 発表
+### 発表 💁
 
+- [研究発表を準備する（2022年版）](https://www.slideshare.net/iTooooooooooooT/2022-250960325) [2022, [@1T0T](https://twitter.com/1T0T)]
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
-- [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441) [2015, [@forthshinji](https://twitter.com/forthshinji)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
+- [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
+
+#### 口頭発表
+
+- [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441) [2015, [@forthshinji](https://twitter.com/forthshinji)]
 - [イショティハドゥス的スライドの作り方](https://qiita.com/Ishotihadus/items/01a76cd3f7afebcb65b1) [2021, [@Ishotihadus](https://twitter.com/Ishotihadus)]
 - [プレゼンテーションに悩むすべての人達のために：プレゼンテーションの世界標準「構造的プレゼンテーション」](https://kzhk.hatenadiary.org/entry/20091215/p2) [2009, [@kzhk](https://profile.hatena.ne.jp/kzhk/)]
+
+#### ポスター発表
+
+😂
 
 ### 英語との付き合い方
 
 404
 
-### コーディング
+### コーディング ⌨️
 - [研究者流コーディングの極意](http://www.chokkan.org/publication/coding-for-researchers.pdf) [2013, [@chokkanorg](https://twitter.com/chokkanorg)]
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a) [2018, [@hmkz_](https://twitter.com/hmkz_)]
 
-## 研究ツール
+## 研究ツール ⛏️
 
 ### 全般
 
@@ -130,7 +146,7 @@ Awesome CS-Ja PhD Life
 
 - [私の研究おすすめツール（文献管理編）](https://note.com/takeshi_teshima/n/nd28a6e3dfb05) [2021, [@DiadochosT](https://twitter.com/DiadochosT)]
 
-## 競争的資金・Fellowship
+## 競争的資金・Fellowship 💰
 
 ### 学振DC
 - [学振特別研究員になるために～2023年度申請版](https://www.slideshare.net/tonets/gakushin23) [2022, [@tonets](https://twitter.com/tonets)]
@@ -148,7 +164,7 @@ Awesome CS-Ja PhD Life
 - [あらためて、ACT-Xをご紹介します](https://note.com/jst_kisokenkyu/n/n51bb34b3dc93) [2021, [@JST_Kisokenkyu](https://twitter.com/JST_Kisokenkyu)]
 - [京都大学白眉プロジェクトに採択されるまで](https://hermite.jp/post/2021/hakubi/) [2021, [Han Bao](https://hermite.jp/)]
 
-## 査読
+## 査読 📚
 
 - [査読の仕方](https://gist.github.com/kaityo256/5654eceac4f831f9bc2c2c8069baac00) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [査読報告書の書き方, 条件付き採録となったときの回答文の書き方](https://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf) [2009, [Takuya Asaka](https://www.comp.sd.tmu.ac.jp/asaka-lab/HomePage/index.html)]
@@ -158,15 +174,15 @@ Awesome CS-Ja PhD Life
 - [国際会議プログラム委員のお仕事](https://blog.junkato.jp/ja/posts/2019-08-16-roles-of-academic-conf-pc-members/) [2019, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [国際会議運営記](https://www.slideshare.net/iTooooooooooooT/ss-95092188/) [2018, [@1T0T](https://twitter.com/1T0T)]
 
-## ネットワーキング
+## ネットワーキング🤝🏿
 
 - [学会の真の本番とも言われる懇親会で新しい知り合いをつくるコツについて](https://snowman-88888.hatenablog.com/entry/2022/03/20/031728) [2022, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 
-## コミュニティ運営
+## コミュニティ運営 🙇
 
-- [【旧サイト記事】「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
+- [「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
 
-## 博士課程に進むべきか
+## 博士課程に進むべきか 🚀
 
 - [博士課程に進むときに考えたと思われること、今思うこと](https://nzw0301.github.io/2018/12/d) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [ソフトウェアエンジニアとして就職する時に考えたこと](https://shopetan.hatenablog.com/entry/2018/12/21/000813) [2018, [@ss_shopetan](https://twitter.com/ss_shopetan)]
@@ -174,7 +190,7 @@ Awesome CS-Ja PhD Life
 - [博士後期課程に行くか延々悩んだ結果やめた](https://kuri8ive.hatenablog.com/entry/why-i-didnt-go-to-phd) [2022, [@kuri8ive](https://twitter.com/kuri8ive)]
 - [高専から大学編入をして修士に進学し博士に進学した理由](https://elnikkis.hatenablog.jp/entry/2018/12/22/185218) [2018, [@elnikkis](https://elnikkis.hatenablog.jp/about)]
 
-## 海外PhDを目指す
+## 海外PhDを目指す 🌎
 
 - [アメリカでCS博士課程に合格するための戦略について考える](https://sff8.hatenablog.com/entry/2022/02/07/121021) [2022, [@s1wase](https://twitter.com/s1wase)]
 - [米国大学院PhD出願に対する私なりの臨み方](https://usaito.hatenablog.com/entry/2021/04/16/190131) [2021, [@usait0](https://twitter.com/usait0)]
@@ -185,14 +201,15 @@ Awesome CS-Ja PhD Life
 - [コンピュータサイエンスでPhDプログラムに留学したい方へのアドバイス](https://note.com/ryosuzuki/n/n60d53f04966c) [2020, [@HCI_Comics](https://twitter.com/HCI_Comics)]
 - [留学の経緯と準備](https://drive.google.com/file/d/16O8eWYnsmzv-RXSN0vKZ17y96wZEvYs1/view) [2020, [@Yuki_Doradora](https://twitter.com/Yuki_Doradora)]
 
-## 就職活動・キャリア
+## 就職活動・キャリア 🏄
 
 - [研究者として海外就活した話](https://www.evernote.com/shard/s733/client/snv?noteGuid=5667b196-fc15-4cf9-b21b-3dc42557294f&noteKey=4a33db22438e5d8febac15ff538e0df6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs733%2Fsh%2F5667b196-fc15-4cf9-b21b-3dc42557294f%2F4a33db22438e5d8febac15ff538e0df6&title=%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B0%25B1%25E6%25B4%25BB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1) [2019]
 - [エディンバラ大学の教員になるまで]() [2019, [@michioh](https://twitter.com/michioh)]
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
 - [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
+- [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
 
-## 研究生活記
+## 研究生活記 😊
 
 ### 博士課程を振返って
 
@@ -224,6 +241,15 @@ Awesome CS-Ja PhD Life
 - [OMRON SINIC X (OSX) のインターン感想](https://syuntoku14.github.io/post/omron/) [2022, [@t_kitamura14](https://twitter.com/t_kitamura14)]
 - [OMRON SINIC X (OSX) インターン記](https://kei18.github.io/posts/20211129_osx-intern.html) [2021, [@\_kei18](https://twitter.com/_kei18)]
 
+
+### 学会
+
+hmm...
+
+### サマースクール
+
+- [ICAPS-20 Summer School on Automated Planning & Schedulingに参加してきました](https://kei18.github.io/posts/20201017_ICAPS-Summer-School.html) [2020, [@_kei18](https://twitter.com/_kei18)]
+
 ### 過程
 
 - [cvpaper.challenge (Note)](https://note.com/cvpaperchallenge/)
@@ -245,6 +271,7 @@ null
 ### 英語
 
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice#other-similar-collections) [2022, [@pliang279](https://github.com/pliang279)]
+
 
 ### 日本語
 
