@@ -49,14 +49,16 @@ Awesome CS-Ja PhD Life
 
 🤔
 
-### 論文の読み方 / 探し方 📖
+### 論文 📖
+
+#### 読み方 / 探し方
 
 - [論文の読み方](https://speakerdeck.com/kaityo256/how-to-survey) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017) [2017, [@1T0T](https://twitter.com/1T0T)]
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
 
-### 論文の書き方 ✍️
+#### 書き方 ✍️
 
 - [松尾組の論文の書き方](http://ymatsuo.com/japanese/ronbun_jpn.html) [2005, [@ymatsuo](https://twitter.com/ymatsuo)]
 - [松尾組の論文の書き方：英語論文](http://ymatsuo.com/japanese/ronbun_eng.html) [2006, [@ymatsuo](https://twitter.com/ymatsuo)]
@@ -70,16 +72,20 @@ Awesome CS-Ja PhD Life
 - [卒論の書き方](https://speakerdeck.com/kaityo256/happy-writing) [2020, [@kaityo256](https://twitter.com/kaityo256)]
 - [論文を書く上での規則](https://qiita.com/Ishotihadus/items/d6088aec3632545833e8) [2021,  [@Ishotihadus](https://twitter.com/Ishotihadus)]
 
-### 口頭発表 💁
+### 発表 💁
 
+- [研究発表を準備する（2022年版）](https://www.slideshare.net/iTooooooooooooT/2022-250960325) [2022, [@1T0T](https://twitter.com/1T0T)]
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
-- [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
-- [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441) [2015, [@forthshinji](https://twitter.com/forthshinji)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
+- [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
+
+#### 口頭発表
+
+- [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441) [2015, [@forthshinji](https://twitter.com/forthshinji)]
 - [イショティハドゥス的スライドの作り方](https://qiita.com/Ishotihadus/items/01a76cd3f7afebcb65b1) [2021, [@Ishotihadus](https://twitter.com/Ishotihadus)]
 - [プレゼンテーションに悩むすべての人達のために：プレゼンテーションの世界標準「構造的プレゼンテーション」](https://kzhk.hatenadiary.org/entry/20091215/p2) [2009, [@kzhk](https://profile.hatena.ne.jp/kzhk/)]
 
-### ポスター発表
+#### ポスター発表
 
 😂
 
@@ -138,7 +144,7 @@ Awesome CS-Ja PhD Life
 
 ## コミュニティ運営 🙇
 
-- [【旧サイト記事】「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
+- [「我々の間にはチームプレーなどという都合のよい言い訳は存在せん．あるとすればスタンドプレーから生じるチームワークだけだ」](https://www.keyakkie.com/%E8%A8%98%E4%BA%8B/%E6%97%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A8%98%E4%BA%8B%E6%88%91%E3%80%85%E3%81%AE%E9%96%93%E3%81%AB%E3%81%AF%E3%83%81%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%A8%E3%81%84%E3%81%86%E9%83%BD%E5%90%88%E3%81%AE%E3%82%88%E3%81%84%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%9B%E3%82%93%E3%81%82%E3%82%8B%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%BC%E3%81%8B%E3%82%89%E7%94%9F%E3%81%98%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A0%E3%81%91%E3%81%A0) [[@keyakkie](https://twitter.com/keyakkie)]
 
 ## 博士課程に進むべきか 🚀
 
@@ -165,6 +171,7 @@ Awesome CS-Ja PhD Life
 - [エディンバラ大学の教員になるまで]() [2019, [@michioh](https://twitter.com/michioh)]
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
 - [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
+- [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
 
 ## 研究生活記 😊
 
@@ -228,6 +235,7 @@ null
 ### 英語
 
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice#other-similar-collections) [2022, [@pliang279](https://github.com/pliang279)]
+
 
 ### 日本語
 
