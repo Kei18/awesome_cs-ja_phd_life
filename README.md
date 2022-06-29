@@ -89,7 +89,7 @@ Awesome CS-Ja PhD Life
 
 ### 研究テーマの見つけ方
 
-🤔
+- [「研究テーマ」の正体](https://note.com/hisashi_is/n/ne5a7cae4854d) [2022, [@hisashi\_is](https://twitter.com/hisashi_is)]
 
 ### 論文 📖
 
@@ -120,6 +120,7 @@ Awesome CS-Ja PhD Life
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
 - [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
+- [はじめてのしつぎおうとう](https://speakerdeck.com/ssryuki/be-happy-together) [2020, [@blessingyuki](https://twitter.com/blessingyuki)]
 
 #### 口頭発表
 
@@ -283,3 +284,4 @@ null
 
 - [研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ](https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md) [2022, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 - [卒業研究をはじめる前に読んでおきたかったリンク集](https://qiita.com/tomoyk/items/26461073b5709ffe75d3) [2021, [@tmyk_kym](https://twitter.com/tmyk_kym)]
+- [卒論・修論研究の攻略](https://note.com/hisashi_is/m/m00b5dd30d9bb)
