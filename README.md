@@ -117,7 +117,7 @@ Awesome CS-Ja PhD Life
 - [学振特別研究員になるために～2023年度申請版](https://www.slideshare.net/tonets/gakushin23) [2022, [@tonets](https://twitter.com/tonets)]
 - [DC1の話](https://nzw0301.github.io/2017/12/DC1) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [学振取るまで（NAIST 版）](https://cl.sd.tmu.ac.jp/~komachi/docs/jsps.html) [[@mamoruk](https://twitter.com/mamoruk)]
-- [学振特別研究員に向けて – 体験談 – (2020年度DC-1採用内定)](http://www.ritsumei.ac.jp/file.jsp?id=454417) [2020, [西川 広記](https://sites.google.com/view/nishikawahiroki/home-japanese)]
+- [学振特別研究員に向けて – 体験談 – (2020年度DC-1採用内定)](http://www.ritsumei.ac.jp/file.jsp?id=454417) [2020, [Hiroki Nishikawa](https://sites.google.com/view/nishikawahiroki/home-japanese)]
 - [私の学振DC2体験談 (2021~2022年度 学振 DC2 採用)](https://speakerdeck.com/shunk031/jsps-dc-hosei-seminar-2023) [2022, [@shunk031](https://twitter.com/shunk031)]
 
 ### その他
