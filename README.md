@@ -160,7 +160,7 @@ Awesome CS-Ja PhD Life
 - [アメリカでCS博士課程に合格するための戦略について考える](https://sff8.hatenablog.com/entry/2022/02/07/121021) [2022, [@s1wase](https://twitter.com/s1wase)]
 - [米国大学院PhD出願に対する私なりの臨み方](https://usaito.hatenablog.com/entry/2021/04/16/190131) [2021, [@usait0](https://twitter.com/usait0)]
 - [アラサー社会人、退職してアメリカ情報系大学院PhDを目指す](https://note.com/micke/n/nbf8686b9a46b) [2020, [@ochngn](https://twitter.com/ochugn)]
-- [アメリカ博士課程留学 − 立志編](https://travelingresearcher.com/entry/2020/02/13/164943) [2020, [@00_](https://twitter.com/00_)]
+- [アメリカ博士課程留学 − 立志編](https://travelingresearcher.com/entry/2020/02/13/164943) [2020, [@00\_](https://twitter.com/00_)]
 - [CanadaでのComputer ScienceのPhD進学に向けて](https://speakerdeck.com/hiroki11x/towards-cs-phd-in-canada) [2020, [@_Hiroki11x](https://twitter.com/_Hiroki11x)]
 - [日本の学部からアメリカのコンピューターサイエンス博士課程に出願する](https://akaria.hatenablog.com/entry/2019/08/22/185244) [2019, [@AkariAsai](https://twitter.com/AkariAsai)]
 - [コンピュータサイエンスでPhDプログラムに留学したい方へのアドバイス](https://note.com/ryosuzuki/n/n60d53f04966c) [2020, [@HCI_Comics](https://twitter.com/HCI_Comics)]
