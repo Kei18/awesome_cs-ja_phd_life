@@ -57,6 +57,7 @@ Awesome CS-Ja PhD Life
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017) [2017, [@1T0T](https://twitter.com/1T0T)]
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
+- [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/) [[Koji Yatani](https://iis-lab.org/member/koji-yatani/)]
 
 #### 書き方 ✍️
 
