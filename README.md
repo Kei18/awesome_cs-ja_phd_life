@@ -140,7 +140,7 @@ Awesome CS-Ja PhD Life
 ### コーディング ⌨️
 - [研究者流コーディングの極意](http://www.chokkan.org/publication/coding-for-researchers.pdf) [2013, [@chokkanorg](https://twitter.com/chokkanorg)]
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a) [2018, [@hmkz_](https://twitter.com/hmkz_)]
-
+- [研究のためのPython開発環境](https://zenn.dev/zenizeni/books/a64578f98450c2) [2022, [@ZeniYuki0922](https://twitter.com/zeniyuki0922)]
 ## 研究ツール ⛏️
 
 ### 全般
