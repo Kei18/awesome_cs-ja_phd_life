@@ -12,7 +12,7 @@ Awesome CS-Ja PhD Life
 
 ## 前置き
 
-- __趣味運営です。__ 誰かの約に立てばそれで良い。[方針](./CONTRIBUTION.md) も参照してください
+- __趣味運営です。__ 誰かの役に立てばそれで良い。[方針](./CONTRIBUTION.md) も参照してください
 - 私の/あの子のawesomeな記事が載ってない! => __プルリク等大歓迎です!__
 - 私の記事はawesomeじゃない => __博士課程/博士持ちってだけで既にawesomeですよ!__
 
@@ -25,9 +25,10 @@ Awesome CS-Ja PhD Life
 
 - [研究をはじめる前に知っておいて欲しい7つのこと](https://speakerdeck.com/kaityo256/welcome-to-lab) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [博士の話](https://gist.github.com/kaityo256/bd73365ec4f756dc305b6f612343d27a) [2020, [@kaityo256](https://twitter.com/kaityo256)]
-- [ロボット対話知能研究室へようこそ](http://pomdp.net/docs/20220427_intro_public_koichiro.slides.pdf) [2022, [@caesar_wanya](https://twitter.com/caesar_wanya/status/1518877284408602624)]
+- [ロボット対話知能研究室へようこそ](http://pomdp.net/docs/20220427_intro_public_koichiro.slides.pdf) [2022, [@caesar\_wanya](https://twitter.com/caesar_wanya/status/1518877284408602624)]
 - [大学院・研究者を目指す人へ](http://www7b.biglobe.ne.jp/~masaoamano/~masaoamano/da-xue-yuan-yan-jiu-zhewo-mu-zhisu-renhe.html) [[長崎大学水産学部海棲哺乳類研究室](http://www7b.biglobe.ne.jp/~masaoamano/)]
 - [コンピュータ科学の博士課程にきて初めて分かったこと4つ](https://blog.junkato.jp/ja/posts/2012-11-13-cs-phd-findings/) [2012, [@arcatdmz](https://twitter.com/arcatdmz)]
+- [研究者にとっての論文十ヶ条](http://scienceandtechnology.jp/archives/36348) [2020, http://scienceandtechnology.jp/]
 - [学際研究と壁](https://mercurial-caper-b6a.notion.site/f4d3b5d6554841869d7f67dafc6dbae5) [2021, [@resnant](https://twitter.com/resnant)]
 
 ## 研究の進め方 ☕
@@ -38,6 +39,7 @@ Awesome CS-Ja PhD Life
 - [一流論文誌・国際会議に採択されるための研究「心・技・体」](https://www.ipsj.or.jp/journal/info/hara75.pdf) [2014, [Takahiro Hara](https://mmde-lab.github.io/hara-webpage/)]
 - [機械学習の研究者を目指す人へ](https://takahashihiroshi.github.io/contents/for_ml_beginners.html) [[Hiroshi Takahashi](https://takahashihiroshi.github.io/)]
 - [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101) [2021, [cvpaper.challenge](https://twitter.com/CVpaperChalleng)]
+- [矢谷流研究アイデアチェックリスト / Research Reality Check](https://iis-lab.org/misc/realitycheck/) [[@kojiyatani](https://twitter.com/kojiyatani)]
 - [自己紹介とメタ視点の研究効率化Tips（研究生活のデザイン）について](https://snowman-88888.hatenablog.com/entry/2022/12/02/153435) [2022, [@sei\_shinagawa_](https://twitter.com/sei_shinagawa)]
 - [研究における評価実験で重要な7つのこと](https://qiita.com/yu4u/items/606e6e5225ad9b603269) [2017, [@yu4u](https://twitter.com/yu4u)]
 - [研究のまとめかた コントリビューションの見つけ方](https://www.dropbox.com/s/y983cazi4vjccaq/kickoff_research.pdf?dl=0) [2022, [@takurodadada](https://twitter.com/takurodadada)]
@@ -195,6 +197,7 @@ Awesome CS-Ja PhD Life
 
 ## 就職活動・キャリア 🏄
 
+- [博士ならではの就職活動のやり方](https://qiita.com/nekonibox/items/005c339e071685edf5f6) [2020, [@nekonibox](https://qiita.com/nekonibox)]
 - [研究者として海外就活した話](https://www.evernote.com/shard/s733/client/snv?noteGuid=5667b196-fc15-4cf9-b21b-3dc42557294f&noteKey=4a33db22438e5d8febac15ff538e0df6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs733%2Fsh%2F5667b196-fc15-4cf9-b21b-3dc42557294f%2F4a33db22438e5d8febac15ff538e0df6&title=%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E6%25B5%25B7%25E5%25A4%2596%25E5%25B0%25B1%25E6%25B4%25BB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1) [2019]
 - [エディンバラ大学の教員になるまで]() [2019, [@michioh](https://twitter.com/michioh)]
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
@@ -255,7 +258,7 @@ Awesome CS-Ja PhD Life
 
 ### ポスドク編
 
-null
+- [2年間スイス・ポスドクをやってみた](https://note.com/forest_opener/n/n3bf72df42671) [2023, [@hiraku\_mrt](https://twitter.com/hiraku_mrt)]
 
 ## 業界論
 
