@@ -201,6 +201,7 @@ Awesome CS-Ja PhD Life
 - [Microsoft Research Asia Fellowship応募のすすめ](https://blog.junkato.jp/ja/posts/2014-05-16-microsoft-research-asia-fellowship/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [あらためて、ACT-Xをご紹介します](https://note.com/jst_kisokenkyu/n/n51bb34b3dc93) [2021, [@JST_Kisokenkyu](https://twitter.com/JST_Kisokenkyu)]
 - [京都大学白眉プロジェクトに採択されるまで](https://hermite.jp/post/2021/hakubi/) [2021, [Han Bao](https://hermite.jp/)]
+- [博士課程の金策](https://kasegao.github.io/posts/2023/03/money/) [2023, [@Kasega0](https://twitter.com/Kasega0)]
 
 ## 査読 📚
 
@@ -222,6 +223,7 @@ Awesome CS-Ja PhD Life
 
 ## 博士課程に進むべきか 🚀
 
+- [博士課程について](https://drive.google.com/file/d/1M-0SkN9AtSa6xlbETiALKUKFBzkG1nc4/view) [2023, [@66mh](https://twitter.com/66mh)]
 - [大学院進学が切り拓く情報系学生のキャリア](https://www.slideshare.net/iTooooooooooooT/ss-249643136) [2021, [@1T0T](https://twitter.com/1T0T)]
 - [博士課程に進むときに考えたと思われること、今思うこと](https://nzw0301.github.io/2018/12/d) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [ソフトウェアエンジニアとして就職する時に考えたこと](https://shopetan.hatenablog.com/entry/2018/12/21/000813) [2018, [@ss_shopetan](https://twitter.com/ss_shopetan)]
@@ -249,13 +251,20 @@ Awesome CS-Ja PhD Life
 - [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
 - [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
 
+### Acadexit
+
+- [筑波大学を退職します](https://note.com/takefumihiraki/n/nf036cd8a54a4) [[2023, @TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
+
 ## 研究生活記 😊
 
 ### 博士課程を振返って
 
+- [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
 - [転職エントリー（東大の博士課程・理研JRA→(株)リクルートのデータサイエンティスト）](https://note.com/takeshi_teshima/n/n919b14bc3644#5eb80eba-e6da-4c0d-a015-658fb2527c1a) [2022, [@DiadochosT](https://twitter.com/DiadochosT)]
 - [日本の博士課程 〜若手シンポジウム’21 カウントダウンカレンダー〜](https://sites.google.com/view/statsmlsymposium21/countdown_articles) [2021]
+- [社会人博士しての博士課程を振り返り](https://lcstmarck.hatenablog.com/entry/2023/03/29/195534) [2023, [@lcst\_topevx](https://twitter.com/lcst_topevx)]
 - [京都大学博士（情報学）の学位を取得しました](https://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/) [2017, [@matsumotory](https://twitter.com/matsumotory)]
+- [博士課程あることないこと](https://kei18.github.io/posts/20230331_phd.html) [2023, [@\_kei18](https://twitter.com/_kei18)]
 
 ### 社会人学生
 
