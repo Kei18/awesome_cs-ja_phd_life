@@ -13,7 +13,7 @@ Awesome CS-Ja PhD Life
 ## 前置き
 
 - __趣味運営です。__ 誰かの役に立てばそれで良い。[方針](./CONTRIBUTION.md) も参照してください
-- 私の/あの子のawesomeな記事が載ってない! => __プルリク等大歓迎です!__
+- 私の/あの子のawesomeな記事が載ってない! => __プルリク等大歓迎です!__ (devからブランチ切ってください)
 - 私の記事はawesomeじゃない => __博士課程/博士持ちってだけで既にawesomeですよ!__
 
 <!-- START doctoc -->
@@ -209,13 +209,14 @@ Awesome CS-Ja PhD Life
 
 ### Acadexit
 
-- [筑波大学を退職します](https://note.com/takefumihiraki/n/nf036cd8a54a4) [[2023, @TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
+- [筑波大学を退職します](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
 ## 研究生活記 😊
 
 ### 博士課程を振返って
 
 - [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
+- [凡人による社会人博士課程生存戦略](https://zenn.dev/hidetoshi/articles/20230401_doctoral-course-strategy) [2023, [@Hidetoshi\_RM](https://twitter.com/hidetoshi_rm)]
 - [転職エントリー（東大の博士課程・理研JRA→(株)リクルートのデータサイエンティスト）](https://note.com/takeshi_teshima/n/n919b14bc3644#5eb80eba-e6da-4c0d-a015-658fb2527c1a) [2022, [@DiadochosT](https://twitter.com/DiadochosT)]
 - [日本の博士課程 〜若手シンポジウム’21 カウントダウンカレンダー〜](https://sites.google.com/view/statsmlsymposium21/countdown_articles) [2021]
 - [社会人博士しての博士課程を振り返り](https://lcstmarck.hatenablog.com/entry/2023/03/29/195534) [2023, [@lcst\_topevx](https://twitter.com/lcst_topevx)]
