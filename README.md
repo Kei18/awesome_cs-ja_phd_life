@@ -65,6 +65,7 @@ Awesome CS-Ja PhD Life
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
 - [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/) [[Koji Yatani](https://iis-lab.org/member/koji-yatani/)]
+- [論文輪読会 第1回 AI論文読み方講座](https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo) [2023, [@shien5963](https://twitter.com/shien5963?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)]
 
 #### 書き方 ✍️
 
