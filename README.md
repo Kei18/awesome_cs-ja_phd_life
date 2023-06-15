@@ -60,6 +60,7 @@ Awesome CS-Ja PhD Life
 
 #### 読み方 / 探し方
 
+- [論文読みの日課について](https://joisino.hatenablog.com/entry/2023/04/10/170519) [2023, [@joisino\_](https://twitter.com/joisino_)]
 - [論文の読み方](https://speakerdeck.com/kaityo256/how-to-survey) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017) [2017, [@1T0T](https://twitter.com/1T0T)]
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
@@ -243,6 +244,7 @@ Awesome CS-Ja PhD Life
 - [ミシガン大学に滞在して研究した話](https://hermite.jp/post/2022/statsml/) [2022, [Han Bao](https://hermite.jp/)]
 - [UCL に滞在した話（行くまで編）](https://nzw0301.github.io/2019/08/ucl) [2019, [@nzw0301](https://twitter.com/nzw0301)]
 - [パリ研究留学記](https://kei18.github.io/posts/20220927_Paris.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
+- [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@blessingyuki](https://twitter.com/blessingyuki)]
 
 ### 長期インターンシップ
 
@@ -274,8 +276,12 @@ Awesome CS-Ja PhD Life
 
 ## 業界論
 
--  [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
--  [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
+- [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
+- [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
+
+### akadexit
+
+- [筑波大学を退職します（a.k.a acadexit）](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
 ## 参考資料
 
