@@ -106,11 +106,13 @@ Awesome CS-Ja PhD Life
 
 #### 読み方 / 探し方
 
+- [論文読みの日課について](https://joisino.hatenablog.com/entry/2023/04/10/170519) [2023, [@joisino\_](https://twitter.com/joisino_)]
 - [論文の読み方](https://speakerdeck.com/kaityo256/how-to-survey) [2021, [@kaityo256](https://twitter.com/kaityo256)]
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017) [2017, [@1T0T](https://twitter.com/1T0T)]
 - [高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ](https://lafrenze.hatenablog.com/entry/2015/08/04/120205) [2015, [@aliliput](https://lafrenze.hatenablog.com/about)]
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
 - [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/) [[Koji Yatani](https://iis-lab.org/member/koji-yatani/)]
+- [論文輪読会 第1回 AI論文読み方講座](https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo) [2023, [@shien5963](https://twitter.com/shien5963?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)]
 
 #### 書き方 ✍️
 
@@ -134,7 +136,7 @@ Awesome CS-Ja PhD Life
 
 #### その他tips
 
-- [工学系の卒論生のための数式記述入門](https://github.com/mti-lab/math_writing) [2023, [@utokyo\_bunny](https://twitter.com/utokyo_bunny)
+- [工学系の卒論生のための数式記述入門](https://github.com/mti-lab/math_writing) [2023, [@utokyo\_bunny](https://twitter.com/utokyo_bunny)]
 - [論文執筆用 BiBTeX エントリ](https://github.com/tamaki-lab/lab-bibtex) [2023, [@ttttamaki](https://twitter.com/ttttamaki)]
 
 ### 発表 💁
@@ -143,7 +145,7 @@ Awesome CS-Ja PhD Life
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
 - [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
-- [はじめてのしつぎおうとう](https://speakerdeck.com/ssryuki/be-happy-together) [2020, [@blessingyuki](https://twitter.com/blessingyuki)]
+- [はじめてのしつぎおうとう](https://speakerdeck.com/ssryuki/be-happy-together) [2020, [@ssr-yuki](https://github.com/ssr-yuki)]
 
 #### 口頭発表
 
@@ -288,6 +290,7 @@ Awesome CS-Ja PhD Life
 - [ミシガン大学に滞在して研究した話](https://hermite.jp/post/2022/statsml/) [2022, [Han Bao](https://hermite.jp/)]
 - [UCL に滞在した話（行くまで編）](https://nzw0301.github.io/2019/08/ucl) [2019, [@nzw0301](https://twitter.com/nzw0301)]
 - [パリ研究留学記](https://kei18.github.io/posts/20220927_Paris.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
+- [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@ssr-yuki](https://github.com/ssr-yuki)]
 
 ### 長期インターンシップ
 
@@ -319,8 +322,12 @@ Awesome CS-Ja PhD Life
 
 ## 業界論
 
--  [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
--  [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
+- [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
+- [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
+
+### akadexit
+
+- [筑波大学を退職します（a.k.a acadexit）](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
 ## 参考資料
 
