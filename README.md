@@ -90,7 +90,7 @@ Awesome CS-Ja PhD Life
 
 #### その他tips
 
-- [工学系の卒論生のための数式記述入門](https://github.com/mti-lab/math_writing) [2023, [@utokyo\_bunny](https://twitter.com/utokyo_bunny)
+- [工学系の卒論生のための数式記述入門](https://github.com/mti-lab/math_writing) [2023, [@utokyo\_bunny](https://twitter.com/utokyo_bunny)]
 - [論文執筆用 BiBTeX エントリ](https://github.com/tamaki-lab/lab-bibtex) [2023, [@ttttamaki](https://twitter.com/ttttamaki)]
 
 ### 発表 💁
@@ -99,7 +99,7 @@ Awesome CS-Ja PhD Life
 - [はじめての国際学会発表](https://rkmt.hatenadiary.org/entry/20100722/1279773843) [2010, [@rkmt](https://twitter.com/rkmt)]
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) [2017, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
 - [修論発表チェックリスト](https://rkmt.hatenadiary.org/entry/20100206/1265420441) [2010, [@rkmt](https://twitter.com/rkmt)]
-- [はじめてのしつぎおうとう](https://speakerdeck.com/ssryuki/be-happy-together) [2020, [@blessingyuki](https://twitter.com/blessingyuki)]
+- [はじめてのしつぎおうとう](https://speakerdeck.com/ssryuki/be-happy-together) [2020, [@ssr-yuki](https://github.com/ssr-yuki)]
 
 #### 口頭発表
 
@@ -244,7 +244,7 @@ Awesome CS-Ja PhD Life
 - [ミシガン大学に滞在して研究した話](https://hermite.jp/post/2022/statsml/) [2022, [Han Bao](https://hermite.jp/)]
 - [UCL に滞在した話（行くまで編）](https://nzw0301.github.io/2019/08/ucl) [2019, [@nzw0301](https://twitter.com/nzw0301)]
 - [パリ研究留学記](https://kei18.github.io/posts/20220927_Paris.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
-- [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@blessingyuki](https://twitter.com/blessingyuki)]
+- [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@ssr-yuki](https://github.com/ssr-yuki)]
 
 ### 長期インターンシップ
 
