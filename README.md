@@ -30,6 +30,7 @@ Awesome CS-Ja PhD Life
 - [コンピュータ科学の博士課程にきて初めて分かったこと4つ](https://blog.junkato.jp/ja/posts/2012-11-13-cs-phd-findings/) [2012, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [研究者にとっての論文十ヶ条](http://scienceandtechnology.jp/archives/36348) [2020, http://scienceandtechnology.jp/]
 - [学際研究と壁](https://mercurial-caper-b6a.notion.site/f4d3b5d6554841869d7f67dafc6dbae5) [2021, [@resnant](https://twitter.com/resnant)]
+- [自分を知る，遊び場を作る](https://speakerdeck.com/eumesy/know-yourself-create-a-playground) [2023, [@sho\_yokoi\_](https://twitter.com/sho_yokoi_)]
 
 ## 研究の進め方 ☕
 
@@ -123,6 +124,10 @@ Awesome CS-Ja PhD Life
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a) [2018, [@hmkz_](https://twitter.com/hmkz_)]
 - [研究のためのPython開発環境](https://zenn.dev/zenizeni/books/a64578f98450c2) [2022, [@ZeniYuki0922](https://twitter.com/zeniyuki0922)]
 
+### データ解析 📊
+
+- [探索的データ解析における正しい可視化手法の選び方と描き方](https://qiita.com/hanon52_/items/33488ed4fc4ece7e1aec) [2018, [@hanon52\_](https://twitter.com/hanon52_)]
+
 ### 広報・プロモーション 📢
 
 - [自分の研究を自腹で広告した体験談](https://joisino.hatenablog.com/entry/2022/04/26/170707) [2022, [@joisino\_](https://twitter.com/joisino_)]
@@ -183,6 +188,7 @@ Awesome CS-Ja PhD Life
 
 - [博士課程について](https://drive.google.com/file/d/1M-0SkN9AtSa6xlbETiALKUKFBzkG1nc4/view) [2023, [@66mh](https://twitter.com/66mh)]
 - [大学院進学が切り拓く情報系学生のキャリア](https://www.slideshare.net/iTooooooooooooT/ss-249643136) [2021, [@1T0T](https://twitter.com/1T0T)]
+- [mast随一の意識低い系が博士課程に進んじゃった話](https://note.com/yamatchy/n/naa4214b2fbf5) [2021, [@yamatchy](https://twitter.com/yamatchy)]
 - [博士課程に進むときに考えたと思われること、今思うこと](https://nzw0301.github.io/2018/12/d) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [ソフトウェアエンジニアとして就職する時に考えたこと](https://shopetan.hatenablog.com/entry/2018/12/21/000813) [2018, [@ss_shopetan](https://twitter.com/ss_shopetan)]
 - [博士課程に進むときに考えたこと](https://blog.makky.io/articles/2018/12/18/d/) [2018, [Masaki Kobayashi](https://www.makky.io/)]
