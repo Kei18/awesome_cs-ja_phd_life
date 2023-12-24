@@ -74,6 +74,7 @@ Awesome CS-Ja PhD Life
 
 - [松尾組の論文の書き方](http://ymatsuo.com/japanese/ronbun_jpn.html) [2005, [@ymatsuo](https://twitter.com/ymatsuo)]
 - [松尾組の論文の書き方：英語論文](http://ymatsuo.com/japanese/ronbun_eng.html) [2006, [@ymatsuo](https://twitter.com/ymatsuo)]
+- [機械学習、NLP論文の書き方（英語）](https://zenn.dev/kotoba_tech/articles/e4f0b6203fe869) [2023, [@jungokasai](https://twitter.com/jungokasai)]
 - [論文必勝法 ～基礎から一流誌・会議採録まで～ 講演スライド](https://www.ipsj.or.jp/journal/info/75NC.html) [2014, IPSJ]
 - [国際会議論文の読み方・書き方](http://phontron.com/slides/neubig15nlptutorial.pdf) [2015, [Graham Neubig](http://www.phontron.com/index.php?lang=ja)]
 - [論文執筆のためのチェックリスト](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf) [2020, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
@@ -227,6 +228,7 @@ Awesome CS-Ja PhD Life
 ### 博士課程を振返って
 
 - [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
+- [博士課程で得られたもの・失ったもの](https://www.0x0c.me/2023/12/phd) [2023, [Akira MATSUDA](https://www.0x0c.me/)]
 - [情報系博士課程修了までに経験したこと・感じたことに関する独り言](https://note.com/_mhirano/n/nc4c256993263) [2023, [@\_mhirano](https://twitter.com/_mhirano)]
 - [凡人による社会人博士課程生存戦略](https://zenn.dev/hidetoshi/articles/20230401_doctoral-course-strategy) [2023, [@Hidetoshi\_RM](https://twitter.com/hidetoshi_rm)]
 - [転職エントリー（東大の博士課程・理研JRA→(株)リクルートのデータサイエンティスト）](https://note.com/takeshi_teshima/n/n919b14bc3644#5eb80eba-e6da-4c0d-a015-658fb2527c1a) [2022, [@DiadochosT](https://twitter.com/DiadochosT)]
@@ -276,6 +278,10 @@ Awesome CS-Ja PhD Life
 ### 過程
 
 - [cvpaper.challenge (Note)](https://note.com/cvpaperchallenge/)
+- Human-Computer Interaction (HCI) Advent Calendar
+  [[2021]](https://adventar.org/calendars/6523)
+  [[2022]](https://adventar.org/calendars/7901)
+  [[2023]](https://adventar.org/calendars/9287)
 - [カーネギーメロン大学での1年目を振り返る](https://sff8.hatenablog.com/entry/2021/08/08/170310) [2021, [@s1wase](https://twitter.com/s1wase)]
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
 - [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
