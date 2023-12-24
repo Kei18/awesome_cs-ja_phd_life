@@ -77,6 +77,7 @@ Awesome CS-Ja PhD Life
 - [コンピュータ科学の博士課程にきて初めて分かったこと4つ](https://blog.junkato.jp/ja/posts/2012-11-13-cs-phd-findings/) [2012, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [研究者にとっての論文十ヶ条](http://scienceandtechnology.jp/archives/36348) [2020, http://scienceandtechnology.jp/]
 - [学際研究と壁](https://mercurial-caper-b6a.notion.site/f4d3b5d6554841869d7f67dafc6dbae5) [2021, [@resnant](https://twitter.com/resnant)]
+- [自分を知る，遊び場を作る](https://speakerdeck.com/eumesy/know-yourself-create-a-playground) [2023, [@sho\_yokoi\_](https://twitter.com/sho_yokoi_)]
 
 ## 研究の進め方 ☕
 
@@ -94,6 +95,7 @@ Awesome CS-Ja PhD Life
 - [先行研究被りの話](https://kanojikajino.github.io/2022-02-13/prior-work/) [2022, [@azaazarashi](https://twitter.com/azaazarashi)]
 - [研究はうまくいかない？- 困難な研究をゴールに繋げる秘訣とは](https://hondana-storage.s3.amazonaws.com/1040/files/12545_maegaki_mokuji.pdf) [2022, [@RYonetani](https://twitter.com/RYonetani)]
 - [研究で詰まっている時におススメな本](https://snowman-88888.hatenablog.com/entry/2021/08/29/161357) [2021, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
+- [君たちはどう研究するか](https://joisino.hatenablog.com/entry/2023/10/29/164650) [2023, [@joisino\_](https://twitter.com/joisino_)]
 
 ### 研究室の選び方
 
@@ -119,6 +121,7 @@ Awesome CS-Ja PhD Life
 
 - [松尾組の論文の書き方](http://ymatsuo.com/japanese/ronbun_jpn.html) [2005, [@ymatsuo](https://twitter.com/ymatsuo)]
 - [松尾組の論文の書き方：英語論文](http://ymatsuo.com/japanese/ronbun_eng.html) [2006, [@ymatsuo](https://twitter.com/ymatsuo)]
+- [機械学習、NLP論文の書き方（英語）](https://zenn.dev/kotoba_tech/articles/e4f0b6203fe869) [2023, [@jungokasai](https://twitter.com/jungokasai)]
 - [論文必勝法 ～基礎から一流誌・会議採録まで～ 講演スライド](https://www.ipsj.or.jp/journal/info/75NC.html) [2014, IPSJ]
 - [国際会議論文の読み方・書き方](http://phontron.com/slides/neubig15nlptutorial.pdf) [2015, [Graham Neubig](http://www.phontron.com/index.php?lang=ja)]
 - [論文執筆のためのチェックリスト](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf) [2020, [Yoshihiro Kanamori](http://kanamori.cs.tsukuba.ac.jp/index-ja.html)]
@@ -156,6 +159,7 @@ Awesome CS-Ja PhD Life
 - [見やすいプレゼン資料の作り方 - リニューアル増量版](https://www.slideshare.net/yutamorishige50/ss-41321443) [2014, [@morishigeyuta](https://twitter.com/morishigeyuta)]
 - [プレゼンスライドがみるみる良くなる基本の推敲技術 -事例付き解説-](https://note.com/hisashi_is/n/n188b42f83dda) [2022, [@hisashi\_is](https://twitter.com/hisashi_is)]
 - [わかりやすい説明のための 10 の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku) [2023, [@e869120](https://twitter.com/e869120)]
+- [(英語での)良い研究発表とは](https://note.com/hciphds/n/nac86e8a74307) [2023, [@rikky0611](https://twitter.com/rikky0611)]
 
 #### ポスター発表
 
@@ -169,6 +173,10 @@ Awesome CS-Ja PhD Life
 - [研究者流コーディングの極意](http://www.chokkan.org/publication/coding-for-researchers.pdf) [2013, [@chokkanorg](https://twitter.com/chokkanorg)]
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a) [2018, [@hmkz_](https://twitter.com/hmkz_)]
 - [研究のためのPython開発環境](https://zenn.dev/zenizeni/books/a64578f98450c2) [2022, [@ZeniYuki0922](https://twitter.com/zeniyuki0922)]
+
+### データ解析 📊
+
+- [探索的データ解析における正しい可視化手法の選び方と描き方](https://qiita.com/hanon52_/items/33488ed4fc4ece7e1aec) [2018, [@hanon52\_](https://twitter.com/hanon52_)]
 
 ### 広報・プロモーション 📢
 
@@ -190,6 +198,7 @@ Awesome CS-Ja PhD Life
 ## 競争的資金・Fellowship 💰
 
 - [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/) [2022, [@kn1cht](https://github.com/kn1cht)]
+- [【2023最新まとめ】博士課程への奨学金・経済的支援](https://www.academianote.site/scholarship/) [2023, [@HAcademianote](https://twitter.com/HAcademianote)]
 
 ### 学振DC
 - [学振特別研究員になるために～2023年度申請版](https://www.slideshare.net/tonets/gakushin23) [2022, [@tonets](https://twitter.com/tonets)]
@@ -230,6 +239,7 @@ Awesome CS-Ja PhD Life
 
 - [博士課程について](https://drive.google.com/file/d/1M-0SkN9AtSa6xlbETiALKUKFBzkG1nc4/view) [2023, [@66mh](https://twitter.com/66mh)]
 - [大学院進学が切り拓く情報系学生のキャリア](https://www.slideshare.net/iTooooooooooooT/ss-249643136) [2021, [@1T0T](https://twitter.com/1T0T)]
+- [mast随一の意識低い系が博士課程に進んじゃった話](https://note.com/yamatchy/n/naa4214b2fbf5) [2021, [@yamatchy](https://twitter.com/yamatchy)]
 - [博士課程に進むときに考えたと思われること、今思うこと](https://nzw0301.github.io/2018/12/d) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [ソフトウェアエンジニアとして就職する時に考えたこと](https://shopetan.hatenablog.com/entry/2018/12/21/000813) [2018, [@ss_shopetan](https://twitter.com/ss_shopetan)]
 - [博士課程に進むときに考えたこと](https://blog.makky.io/articles/2018/12/18/d/) [2018, [Masaki Kobayashi](https://www.makky.io/)]
@@ -260,11 +270,13 @@ Awesome CS-Ja PhD Life
 
 - [筑波大学を退職します](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
-## 研究生活記 😊
+## 研究生活記 😊 / aka. 怪文書
 
 ### 博士課程を振返って
 
 - [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
+- [博士課程で得られたもの・失ったもの](https://www.0x0c.me/2023/12/phd) [2023, [Akira MATSUDA](https://www.0x0c.me/)]
+- [情報系博士課程修了までに経験したこと・感じたことに関する独り言](https://note.com/_mhirano/n/nc4c256993263) [2023, [@\_mhirano](https://twitter.com/_mhirano)]
 - [凡人による社会人博士課程生存戦略](https://zenn.dev/hidetoshi/articles/20230401_doctoral-course-strategy) [2023, [@Hidetoshi\_RM](https://twitter.com/hidetoshi_rm)]
 - [転職エントリー（東大の博士課程・理研JRA→(株)リクルートのデータサイエンティスト）](https://note.com/takeshi_teshima/n/n919b14bc3644#5eb80eba-e6da-4c0d-a015-658fb2527c1a) [2022, [@DiadochosT](https://twitter.com/DiadochosT)]
 - [日本の博士課程 〜若手シンポジウム’21 カウントダウンカレンダー〜](https://sites.google.com/view/statsmlsymposium21/countdown_articles) [2021]
@@ -307,11 +319,16 @@ Awesome CS-Ja PhD Life
 
 ### サマースクール
 
+- [IEEE RAS Summer School on Multi Robot Systems 2023 参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023.html) [2023, [@Kazu\_KOBA](https://twitter.com/KazuhoKobayashi)]
 - [ICAPS-20 Summer School on Automated Planning & Schedulingに参加してきました](https://kei18.github.io/posts/20201017_ICAPS-Summer-School.html) [2020, [@_kei18](https://twitter.com/_kei18)]
 
 ### 過程
 
 - [cvpaper.challenge (Note)](https://note.com/cvpaperchallenge/)
+- Human-Computer Interaction (HCI) Advent Calendar
+  [[2021]](https://adventar.org/calendars/6523)
+  [[2022]](https://adventar.org/calendars/7901)
+  [[2023]](https://adventar.org/calendars/9287)
 - [カーネギーメロン大学での1年目を振り返る](https://sff8.hatenablog.com/entry/2021/08/08/170310) [2021, [@s1wase](https://twitter.com/s1wase)]
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
 - [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
