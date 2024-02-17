@@ -84,6 +84,7 @@ Awesome CS-Ja PhD Life
 - [論文を書く上での規則](https://qiita.com/Ishotihadus/items/d6088aec3632545833e8) [2021,  [@Ishotihadus](https://twitter.com/Ishotihadus)]
 - [先生の「まずは論文の骨子を箇条書きで書いてみて」に対応する: 論文執筆の第一歩](https://shunk031.hatenablog.com/entry/lets-write-outline) [2021, [@shunk031](https://twitter.com/shunk031)]
 - [論文の書き方](https://joisino.hatenablog.com/entry/2022/09/20/172453) [2022, [@joisino\_](https://twitter.com/joisino_)]
+- [60 Questions & Answers公開版23](https://docs.google.com/document/d/180tNamxQFV2fWUOmEdtTFVy-R-sTgiFlbxL-o3Lg6n4/edit) [2023, [@keio\_smilab](https://twitter.com/keio_smilab)]
 
 #### 卒修論
 
@@ -116,7 +117,7 @@ Awesome CS-Ja PhD Life
 
 #### ポスター発表
 
-😂
+- [ポスター発表と私](https://note.com/yamatchy/n/n1047b3b076a4) [2023, [@yamatchy](https://twitter.com/yamatchy)]
 
 ### 英語との付き合い方
 
@@ -140,7 +141,7 @@ Awesome CS-Ja PhD Life
 ### 全般
 
 - [研究に便利なツールまとめ2021](https://note.com/moskomule/n/nb269e9d61631) [2021, [@mosko_mule](https://twitter.com/mosko_mule)]
-- [汎用研究ツール群](https://kei18.github.io/posts/research-tool.html) [2021, [@\_kei18](https://twitter.com/_kei18)]
+- [汎用研究ツール群](https://kei18.github.io/note/posts/20220101_research-tools/) [2021, [@\_kei18](https://twitter.com/_kei18)]
 - [研究系で使ってるツール](https://nzw0301.github.io/2018/03/tools) [2018, [@nzw0301](https://twitter.com/nzw0301)]
 - [The Missing Semester of Your CS Education (日本語版)](https://missing-semester-jp.github.io/)
 
@@ -218,6 +219,7 @@ Awesome CS-Ja PhD Life
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
 - [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
 - [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
+- [日本の大学からアメリカのbig techでresearch scientistになるまで](https://note.com/hirofumi0810/n/nbe95832a12d7) [2023, [@HirofumiInaguma](https://twitter.com/HirofumiInaguma)]
 
 ### Acadexit
 
@@ -235,7 +237,7 @@ Awesome CS-Ja PhD Life
 - [日本の博士課程 〜若手シンポジウム’21 カウントダウンカレンダー〜](https://sites.google.com/view/statsmlsymposium21/countdown_articles) [2021]
 - [社会人博士しての博士課程を振り返り](https://lcstmarck.hatenablog.com/entry/2023/03/29/195534) [2023, [@lcst\_topevx](https://twitter.com/lcst_topevx)]
 - [京都大学博士（情報学）の学位を取得しました](https://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/) [2017, [@matsumotory](https://twitter.com/matsumotory)]
-- [博士課程あることないこと](https://kei18.github.io/posts/20230331_phd.html) [2023, [@\_kei18](https://twitter.com/_kei18)]
+- [博士課程あることないこと](https://kei18.github.io/note/posts/20230331_phd) [2023, [@\_kei18](https://twitter.com/_kei18)]
 
 ### 社会人学生
 
@@ -255,14 +257,15 @@ Awesome CS-Ja PhD Life
 - [フランスの地方都市に半年間留学した話（研究編・前編）](https://note.com/namicha/n/n47b864b87384) [2018, [@namicha_1](https://twitter.com/namicha_1)]
 - [ミシガン大学に滞在して研究した話](https://hermite.jp/post/2022/statsml/) [2022, [Han Bao](https://hermite.jp/)]
 - [UCL に滞在した話（行くまで編）](https://nzw0301.github.io/2019/08/ucl) [2019, [@nzw0301](https://twitter.com/nzw0301)]
-- [パリ研究留学記](https://kei18.github.io/posts/20220927_Paris.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
+- [パリ研究留学記](https://kei18.github.io/note/posts/20220927_paris/) [2022, [@\_kei18](https://twitter.com/_kei18)]
 - [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@ssr-yuki](https://github.com/ssr-yuki)]
+- [日本人の全くいない環境で研究してた話【韓国・KAIST研究滞在留学】](https://note.com/yamatchy/n/nfd7282c99c52) [2022, [@yamatchy](https://twitter.com/yamatchy)]
 
 ### 長期インターンシップ
 
 - [Microsoft Research Internship アルムナイ Advent Calendar 2020](https://adventar.org/calendars/5107)
 - [OMRON SINIC X (OSX) のインターン感想](https://syuntoku14.github.io/post/omron/) [2022, [@t_kitamura14](https://twitter.com/t_kitamura14)]
-- [OMRON SINIC X (OSX) インターン記](https://kei18.github.io/posts/20211129_osx-intern.html) [2021, [@\_kei18](https://twitter.com/_kei18)]
+- [OMRON SINIC X (OSX) インターン記](https://kei18.github.io/note/posts/20211129_osx-intern/) [2021, [@\_kei18](https://twitter.com/_kei18)]
 
 
 ### 学会
@@ -273,7 +276,7 @@ Awesome CS-Ja PhD Life
 ### サマースクール
 
 - [IEEE RAS Summer School on Multi Robot Systems 2023 参加記録](https://kazuho-koba.github.io/MRS-SummerSchool2023.html) [2023, [@Kazu\_KOBA](https://twitter.com/KazuhoKobayashi)]
-- [ICAPS-20 Summer School on Automated Planning & Schedulingに参加してきました](https://kei18.github.io/posts/20201017_ICAPS-Summer-School.html) [2020, [@_kei18](https://twitter.com/_kei18)]
+- [ICAPS-20 Summer School on Automated Planning & Schedulingに参加してきました](https://kei18.github.io/note/posts/20201017_icaps-summer-school/) [2020, [@_kei18](https://twitter.com/_kei18)]
 
 ### 過程
 
@@ -284,7 +287,7 @@ Awesome CS-Ja PhD Life
   [[2023]](https://adventar.org/calendars/9287)
 - [カーネギーメロン大学での1年目を振り返る](https://sff8.hatenablog.com/entry/2021/08/08/170310) [2021, [@s1wase](https://twitter.com/s1wase)]
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
-- [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/posts/20220130_essay.html) [2022, [@\_kei18](https://twitter.com/_kei18)]
+- [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/note/posts/20220130_essay/) [2022, [@\_kei18](https://twitter.com/_kei18)]
 - [小さな狂気の閃光を失うな](https://note.com/maguro274/n/n917716a3fbf8) [2022, [@maguroIsland](https://twitter.com/maguroIsland)]
 
 ### ポスドク編
@@ -296,9 +299,10 @@ Awesome CS-Ja PhD Life
 - [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
 - [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
 
-### akadexit
+### acadexit
 
 - [筑波大学を退職します（a.k.a acadexit）](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
+
 
 ## 参考資料
 
