@@ -31,15 +31,14 @@ Awesome CS-Ja PhD Life
 - [研究者にとっての論文十ヶ条](http://scienceandtechnology.jp/archives/36348) [2020, http://scienceandtechnology.jp/]
 - [学際研究と壁](https://mercurial-caper-b6a.notion.site/f4d3b5d6554841869d7f67dafc6dbae5) [2021, [@resnant](https://twitter.com/resnant)]
 - [自分を知る，遊び場を作る](https://speakerdeck.com/eumesy/know-yourself-create-a-playground) [2023, [@sho\_yokoi\_](https://twitter.com/sho_yokoi_)]
+- [この先生きのこるには](https://speakerdeck.com/verypluming/konoxian-sheng-kinokoruniha) [2024, [@verypluming](https://x.com/verypluming)]
+- [研究とは何か](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/research_memo.htm) [2023, [Akimasa Morihata](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/)]
 
 ## 研究の進め方 ☕
 
-- [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179) [2019, [@guicho271828](https://twitter.com/guicho271828)]
 - [研究をはじめてから国際会議と学術論文に採択されるまで](https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban) [2019, [Katsuhiko Yamamoto](https://sites.google.com/site/kyama0321/ja)]
-- [試行回数の増やし方 2021年度版](https://speakerdeck.com/butsugiri/increasing-number-of-attempts-ver-2021) [2021, [Shun Kinyono](https://butsugiri.github.io/)]
 - [一流論文誌・国際会議に採択されるための研究「心・技・体」](https://www.ipsj.or.jp/journal/info/hara75.pdf) [2014, [Takahiro Hara](https://mmde-lab.github.io/hara-webpage/)]
 - [機械学習の研究者を目指す人へ](https://takahashihiroshi.github.io/contents/for_ml_beginners.html) [[Hiroshi Takahashi](https://takahashihiroshi.github.io/)]
-- [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101) [2021, [cvpaper.challenge](https://twitter.com/CVpaperChalleng)]
 - [矢谷流研究アイデアチェックリスト / Research Reality Check](https://iis-lab.org/misc/realitycheck/) [[@kojiyatani](https://twitter.com/kojiyatani)]
 - [自己紹介とメタ視点の研究効率化Tips（研究生活のデザイン）について](https://snowman-88888.hatenablog.com/entry/2022/12/02/153435) [2022, [@sei\_shinagawa_](https://twitter.com/sei_shinagawa)]
 - [研究における評価実験で重要な7つのこと](https://qiita.com/yu4u/items/606e6e5225ad9b603269) [2017, [@yu4u](https://twitter.com/yu4u)]
@@ -49,6 +48,14 @@ Awesome CS-Ja PhD Life
 - [研究はうまくいかない？- 困難な研究をゴールに繋げる秘訣とは](https://hondana-storage.s3.amazonaws.com/1040/files/12545_maegaki_mokuji.pdf) [2022, [@RYonetani](https://twitter.com/RYonetani)]
 - [研究で詰まっている時におススメな本](https://snowman-88888.hatenablog.com/entry/2021/08/29/161357) [2021, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 - [君たちはどう研究するか](https://joisino.hatenablog.com/entry/2023/10/29/164650) [2023, [@joisino\_](https://twitter.com/joisino_)]
+- [2024年度 研究の進め方](https://speakerdeck.com/hkefka385/20240410-yan-jiu-nojin-mefang) [2024, [@hkefka385](https://x.com/hkefka385)]
+
+### 研究技術詳細 🔍
+
+- [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179) [2019, [@guicho271828](https://twitter.com/guicho271828)]
+- [試行回数の増やし方 2021年度版](https://speakerdeck.com/butsugiri/increasing-number-of-attempts-ver-2021) [2021, [Shun Kinyono](https://butsugiri.github.io/)]
+- [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101) [2021, [cvpaper.challenge](https://twitter.com/CVpaperChalleng)]
+- [Non-Research Tips for Information Science Researchers / 情報科学研究補助技法](https://non-research-tips.github.io/)
 
 ### 研究室の選び方
 
@@ -210,6 +217,7 @@ Awesome CS-Ja PhD Life
 - [日本の学部からアメリカのコンピューターサイエンス博士課程に出願する](https://akaria.hatenablog.com/entry/2019/08/22/185244) [2019, [@AkariAsai](https://twitter.com/AkariAsai)]
 - [コンピュータサイエンスでPhDプログラムに留学したい方へのアドバイス](https://note.com/ryosuzuki/n/n60d53f04966c) [2020, [@HCI_Comics](https://twitter.com/HCI_Comics)]
 - [留学の経緯と準備](https://drive.google.com/file/d/16O8eWYnsmzv-RXSN0vKZ17y96wZEvYs1/view) [2020, [@Yuki_Doradora](https://twitter.com/Yuki_Doradora)]
+- [日本と北米のCS系博士課程の違い](https://yutanoma.hatenablog.com/entry/2024/06/08/132924) [2024, [@ytnm0520](https://x.com/ytnm0520)]
 
 ## 就職活動・キャリア 🏄
 
@@ -218,11 +226,10 @@ Awesome CS-Ja PhD Life
 - [エディンバラ大学の教員になるまで]() [2019, [@michioh](https://twitter.com/michioh)]
 - [怪文書2022](https://nzw0301.github.io/2022/04/finding-job) [2022, [@nzw0301](https://twitter.com/nzw0301)]
 - [３－４．博士課程大学院生・ポスドクさんへ](https://home.hiroshima-u.ac.jp/kawazoe/html/Supervision3-4.html) [2012, [Takaaki Kawazoe](https://home.hiroshima-u.ac.jp/kawazoe/index.html)]
-- [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
 - [日本の大学からアメリカのbig techでresearch scientistになるまで](https://note.com/hirofumi0810/n/nbe95832a12d7) [2023, [@HirofumiInaguma](https://twitter.com/HirofumiInaguma)]
-
-### Acadexit
-
+- [東京大学を離れるにあたって](https://sites.google.com/site/shinnosuketakamichi/blog/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E3%82%92%E9%9B%A2%E3%82%8C%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6) [2024, [@forthshinji](https://x.com/forthshinji)]
+- [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
+- [私のキャリアパス紹介 〜アカデミアから民間企業に転職して〜 (P10-)](https://cbi-society.org/home/documents/society_journal/CBI_2022_10_2.pdf) [2022, [Masaaki Kotera](https://researchmap.jp/maskot)]
 - [筑波大学を退職します](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
 ## 研究生活記 😊 / aka. 怪文書
@@ -260,6 +267,7 @@ Awesome CS-Ja PhD Life
 - [パリ研究留学記](https://kei18.github.io/note/posts/20220927_paris/) [2022, [@\_kei18](https://twitter.com/_kei18)]
 - [英国ケンブリッジ滞在記録](https://ssr-yuki.github.io/yukipedia/overseas/2023cam/) [2023, [@ssr-yuki](https://github.com/ssr-yuki)]
 - [日本人の全くいない環境で研究してた話【韓国・KAIST研究滞在留学】](https://note.com/yamatchy/n/nfd7282c99c52) [2022, [@yamatchy](https://twitter.com/yamatchy)]
+- [MBZUAI での Visiting Student](https://zenn.dev/tatsuro_pfgt/articles/14b949482b436f) [2024, [@Ina\_pfgt](https://x.com/Ina_pfgt)]
 
 ### 長期インターンシップ
 
@@ -294,14 +302,6 @@ Awesome CS-Ja PhD Life
 
 - [2年間スイス・ポスドクをやってみた](https://note.com/forest_opener/n/n3bf72df42671) [2023, [@hiraku\_mrt](https://twitter.com/hiraku_mrt)]
 
-## 業界論
-
-- [情報理工学系の産業界とアカデミアは今後どうしたらいいの？](https://blog.junkato.jp/ja/posts/2014-07-19-japanese-ist-society-phd/) [2014, [@arcatdmz](https://twitter.com/arcatdmz)]
-- [和文論文誌をいつまで続けるべきか](https://min.togetter.com/dZADDrb) [2021, [@yumu19](https://twitter.com/yumu19)]
-
-### acadexit
-
-- [筑波大学を退職します（a.k.a acadexit）](https://note.com/takefumihiraki/n/nf036cd8a54a4) [2023, [@TakefumiHIRAKI](https://twitter.com/TakefumiHIRAKI)]
 
 
 ## 参考資料
@@ -316,3 +316,4 @@ Awesome CS-Ja PhD Life
 - [研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ](https://github.com/SeitaroShinagawa/FavoritePapers/blob/master/summary/how_to_make_progress.md) [2022, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 - [卒業研究をはじめる前に読んでおきたかったリンク集](https://qiita.com/tomoyk/items/26461073b5709ffe75d3) [2021, [@tmyk_kym](https://twitter.com/tmyk_kym)]
 - [卒論・修論研究の攻略](https://note.com/hisashi_is/m/m00b5dd30d9bb)
+- [情報系院生に向けた研究インターン体験記まとめ](https://maruruy.hatenablog.com/entry/20231020/1697793300) [2023, [@maruru0090)](https://x.com/maruru0090)]
