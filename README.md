@@ -79,6 +79,7 @@ Awesome CS-Ja PhD Life
 - [自分を知る，遊び場を作る](https://speakerdeck.com/eumesy/know-yourself-create-a-playground) [2023, [@sho\_yokoi\_](https://twitter.com/sho_yokoi_)]
 - [この先生きのこるには](https://speakerdeck.com/verypluming/konoxian-sheng-kinokoruniha) [2024, [@verypluming](https://x.com/verypluming)]
 - [研究とは何か](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/research_memo.htm) [2023, [Akimasa Morihata](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/)]
+- [博士課程をゴリ押しする怪文書](https://note.com/66mh/n/ne5b679ceb630) [2024, [@66mh](https://x.com/66mh)]
 
 ## 研究の進め方 ☕
 
@@ -95,6 +96,7 @@ Awesome CS-Ja PhD Life
 - [研究で詰まっている時におススメな本](https://snowman-88888.hatenablog.com/entry/2021/08/29/161357) [2021, [@sei_shinagawa](https://twitter.com/sei_shinagawa)]
 - [君たちはどう研究するか](https://joisino.hatenablog.com/entry/2023/10/29/164650) [2023, [@joisino\_](https://twitter.com/joisino_)]
 - [2024年度 研究の進め方](https://speakerdeck.com/hkefka385/20240410-yan-jiu-nojin-mefang) [2024, [@hkefka385](https://x.com/hkefka385)]
+- [研究の進め方 ランダムネスとの付き合い方について](https://speakerdeck.com/joisino/randomness) [2024, [@joisino\_](https://x.com/joisino_)]
 
 ### 研究技術詳細 🔍
 
@@ -283,6 +285,7 @@ Awesome CS-Ja PhD Life
 ### 博士課程を振返って
 
 - [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
+- [博士課程を振り返って](https://ssr-yuki.github.io/yukipedia/misc/feelings_in_doctoral_journey) [2025, [@ssr-yuki](https://github.com/ssr-yuki)]
 - [博士課程で得られたもの・失ったもの](https://www.0x0c.me/2023/12/phd) [2023, [Akira MATSUDA](https://www.0x0c.me/)]
 - [情報系博士課程修了までに経験したこと・感じたことに関する独り言](https://note.com/_mhirano/n/nc4c256993263) [2023, [@\_mhirano](https://twitter.com/_mhirano)]
 - [凡人による社会人博士課程生存戦略](https://zenn.dev/hidetoshi/articles/20230401_doctoral-course-strategy) [2023, [@Hidetoshi\_RM](https://twitter.com/hidetoshi_rm)]
