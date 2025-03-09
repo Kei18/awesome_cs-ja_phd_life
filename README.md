@@ -123,6 +123,7 @@ Awesome CS-Ja PhD Life
 - [プレゼンスライドがみるみる良くなる基本の推敲技術 -事例付き解説-](https://note.com/hisashi_is/n/n188b42f83dda) [2022, [@hisashi\_is](https://twitter.com/hisashi_is)]
 - [わかりやすい説明のための 10 の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku) [2023, [@e869120](https://twitter.com/e869120)]
 - [(英語での)良い研究発表とは](https://note.com/hciphds/n/nac86e8a74307) [2023, [@rikky0611](https://twitter.com/rikky0611)]
+- [プレゼン資料作成で最低限気をつけるべきこと](https://speakerdeck.com/sgnm/purezendezui-di-xian-qi-wotukerubekikoto-suraidozuo-cheng) [2022, [@wkpeco](https://x.com/wkpeco)]
 
 #### ポスター発表
 
@@ -246,6 +247,7 @@ Awesome CS-Ja PhD Life
 - [転職エントリー（東大の博士課程・理研JRA→(株)リクルートのデータサイエンティスト）](https://note.com/takeshi_teshima/n/n919b14bc3644#5eb80eba-e6da-4c0d-a015-658fb2527c1a) [2022, [@DiadochosT](https://twitter.com/DiadochosT)]
 - [日本の博士課程 〜若手シンポジウム’21 カウントダウンカレンダー〜](https://sites.google.com/view/statsmlsymposium21/countdown_articles) [2021]
 - [社会人博士しての博士課程を振り返り](https://lcstmarck.hatenablog.com/entry/2023/03/29/195534) [2023, [@lcst\_topevx](https://twitter.com/lcst_topevx)]
+- [趣味のプログラミングで博士号を取った社会人の覚え書き](https://zenn.dev/canard0328/articles/memorandum-of-phd) [2022, [@canard0328](https://x.com/canard0328)]
 - [京都大学博士（情報学）の学位を取得しました](https://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/) [2017, [@matsumotory](https://twitter.com/matsumotory)]
 - [博士課程あることないこと](https://kei18.github.io/note/posts/20230331_phd) [2023, [@\_kei18](https://twitter.com/_kei18)]
 
@@ -253,6 +255,8 @@ Awesome CS-Ja PhD Life
 
 - [社会人学生に関するサイトまとめ](https://yumulog.hatenablog.com/entry/20120205/1328442737) [2020, [@yumu19](https://twitter.com/yumu19)]
 - 社会人学生 Advent Calendar
+  [[2024]](https://adventar.org/calendars/10520)
+  [[2023]](https://adventar.org/calendars/9433)
   [[2022]](https://adventar.org/calendars/7910)
   [[2021]](https://adventar.org/calendars/6250)
   [[2020]](https://adventar.org/calendars/5096)
@@ -304,8 +308,11 @@ Awesome CS-Ja PhD Life
 ### ポスドク編
 
 - [2年間スイス・ポスドクをやってみた](https://note.com/forest_opener/n/n3bf72df42671) [2023, [@hiraku\_mrt](https://twitter.com/hiraku_mrt)]
+- [而立](https://hermite.jp/post/2025/thirty/) [2025, [@levelfour\_](https://x.com/levelfour_)]
 
+### 助教編
 
+- [助教0年目の振り返り](https://medium.com/@unilight/%E5%8A%A9%E6%95%990%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A-a6bc23dd6253) [2025, [@unilightwf](https://x.com/unilightwf)]
 
 ## 参考資料
 
