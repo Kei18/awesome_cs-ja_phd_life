@@ -308,6 +308,7 @@ Awesome CS-Ja PhD Life
   [[2021]](https://adventar.org/calendars/6250)
   [[2020]](https://adventar.org/calendars/5096)
   [[2019]](https://adventar.org/calendars/4496)
+- [「社会人」大学院生であることを最大限活用するには？ー博士（情報科学）取得の報告にかえて](https://rand.pepabo.com/article/2025/03/24/antipop-doctor/) [2025, [@kentaro](https://x.com/kentaro)]
 
 ### 海外留学
 
