@@ -296,6 +296,7 @@ Awesome CS-Ja PhD Life
 - [社会人博士しての博士課程を振り返り](https://lcstmarck.hatenablog.com/entry/2023/03/29/195534) [2023, [@lcst\_topevx](https://twitter.com/lcst_topevx)]
 - [趣味のプログラミングで博士号を取った社会人の覚え書き](https://zenn.dev/canard0328/articles/memorandum-of-phd) [2022, [@canard0328](https://x.com/canard0328)]
 - [京都大学博士（情報学）の学位を取得しました](https://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/) [2017, [@matsumotory](https://twitter.com/matsumotory)]
+- [過去の自分に見せたい博士課程のTips](https://note.com/momongaclub/n/nf366c05e46e2) [2025, [@tyariRAD](https://x.com/tyariRAD)]
 - [博士課程あることないこと](https://kei18.github.io/note/posts/20230331_phd) [2023, [@\_kei18](https://twitter.com/_kei18)]
 
 ### 社会人学生
@@ -335,6 +336,7 @@ Awesome CS-Ja PhD Life
 
 - [NAACL2022 & *SEM2022現地参加報告とアメリカでCOVID-19に感染した話](https://blog.hpprc.dev/posts/naacl2022) [2022, [@hpp\_ricecake](https://twitter.com/hpp_ricecake)]
 - [CIKM2022 参加報告](https://shunk031.hatenablog.com/entry/cikm2022) [2022, [@shunk031](https://twitter.com/shunk031)]
+- [NeurIPS 2024 参加記](https://mti-lab.github.io/blog/2025/01/18/neurips2024.html) [2024, [@utokyo\_bunny](https://x.com/utokyo_bunny)]
 
 ### サマースクール
 
