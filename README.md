@@ -81,6 +81,7 @@ Awesome CS-Ja PhD Life
 - [この先生きのこるには](https://speakerdeck.com/verypluming/konoxian-sheng-kinokoruniha) [2024, [@verypluming](https://x.com/verypluming)]
 - [研究とは何か](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/research_memo.htm) [2023, [Akimasa Morihata](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/)]
 - [博士課程をゴリ押しする怪文書](https://note.com/66mh/n/ne5b679ceb630) [2024, [@66mh](https://x.com/66mh)]
+- [博士課程の失敗記を30個集めて、教訓を抽出した](https://note.com/h_in_lab/n/n0dbf93f7e901) [2025, [@h\_in\_lab](https://note.com/h_in_lab)]
 
 ## 研究の進め方 ☕
 
@@ -125,6 +126,8 @@ Awesome CS-Ja PhD Life
 - [個人的Surveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133) [2020, [@mocobt](https://twitter.com/mocobt)]
 - [矢谷流論文の読み方](https://iis-lab.org/misc/paperreading/) [[Koji Yatani](https://iis-lab.org/member/koji-yatani/)]
 - [論文輪読会 第1回 AI論文読み方講座](https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo) [2023, [@shien5963](https://twitter.com/shien5963?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)]
+- [新入生向けチュートリアル：文献のサーベイv2](https://speakerdeck.com/a1da4/xin-ru-sheng-xiang-ketiyutoriaru-wen-xian-nosabeiv2) [2025, [@a1da\_](https://x.com/a1da_)]
+- [サーベイ入門2025｜苗村研勉強会2025](https://www.docswell.com/s/yuchi/ZJ4VX1-2025-04-20-survey) [2025, [@yuchi\_yahagi](https://x.com/yuchi_yahagi)]
 
 #### 書き方 ✍️
 
@@ -268,6 +271,7 @@ Awesome CS-Ja PhD Life
 - [コンピュータサイエンスでPhDプログラムに留学したい方へのアドバイス](https://note.com/ryosuzuki/n/n60d53f04966c) [2020, [@HCI_Comics](https://twitter.com/HCI_Comics)]
 - [留学の経緯と準備](https://drive.google.com/file/d/16O8eWYnsmzv-RXSN0vKZ17y96wZEvYs1/view) [2020, [@Yuki_Doradora](https://twitter.com/Yuki_Doradora)]
 - [日本と北米のCS系博士課程の違い](https://yutanoma.hatenablog.com/entry/2024/06/08/132924) [2024, [@ytnm0520](https://x.com/ytnm0520)]
+- [アメリカCS博士課程 前半2年間の記録（PhD Candidateになりました）](https://ryokamoi.blogspot.com/2025/05/cs-2phd-candidate.html) [2025, [@RyoKamoi](https://x.com/RyoKamoi)]
 
 ## 就職活動・キャリア 🏄
 
@@ -354,15 +358,18 @@ Awesome CS-Ja PhD Life
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
 - [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/note/posts/20220130_essay/) [2022, [@\_kei18](https://twitter.com/_kei18)]
 - [小さな狂気の閃光を失うな](https://note.com/maguro274/n/n917716a3fbf8) [2022, [@maguroIsland](https://twitter.com/maguroIsland)]
+- [NLP研究を始めてから主要国際会議に論文を通すまでの振り返り](https://yusuke196.hatenablog.com/entry/2025/04/13/001021) [2025, [@yusuke196](https://x.com/yusuke196)]
+- [IT初心者だった私が、修士2年生でCVPR2025(Highlight)に通すまで](https://note.com/oguryu/n/n408b98657163) [2025, [@Oguryu417](https://x.com/Oguryu417)]
 
 ### ポスドク編
 
 - [2年間スイス・ポスドクをやってみた](https://note.com/forest_opener/n/n3bf72df42671) [2023, [@hiraku\_mrt](https://twitter.com/hiraku_mrt)]
 - [而立](https://hermite.jp/post/2025/thirty/) [2025, [@levelfour\_](https://x.com/levelfour_)]
 
-### 助教編
+### 助教・研究員編
 
 - [助教0年目の振り返り](https://medium.com/@unilight/%E5%8A%A9%E6%95%990%E5%B9%B4%E7%9B%AE%E3%81%AE%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A-a6bc23dd6253) [2025, [@unilightwf](https://x.com/unilightwf)]
+- [パーマネント研究職に 2 年就いてみて](https://note.com/ishotihadus/n/ne82c9e19daf2) [2025, [@Ishotihadus](https://x.com/Ishotihadus)]
 
 ## 参考資料
 
