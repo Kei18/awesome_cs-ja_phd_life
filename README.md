@@ -52,6 +52,7 @@ Awesome CS-Ja PhD Life
 - [君たちはどう研究するか](https://joisino.hatenablog.com/entry/2023/10/29/164650) [2023, [@joisino\_](https://twitter.com/joisino_)]
 - [2024年度 研究の進め方](https://speakerdeck.com/hkefka385/20240410-yan-jiu-nojin-mefang) [2024, [@hkefka385](https://x.com/hkefka385)]
 - [研究の進め方 ランダムネスとの付き合い方について](https://speakerdeck.com/joisino/randomness) [2024, [@joisino\_](https://x.com/joisino_)]
+- [国際論文を出そう！ICRA / IROS / RA-L への論文投稿の心構えとノウハウ / RSJ2025 Luncheon Seminar](https://speakerdeck.com/koide3/rsj2025-luncheon-seminar) [2025, [@k\_koide3](https://x.com/k_koide3)]
 
 ### 研究技術詳細 🔍
 
@@ -245,6 +246,7 @@ Awesome CS-Ja PhD Life
 
 - [博士課程3年間を終えるにあたって](https://enp1s0.dev/phd.html) [2023, [@tensorcore](https://twitter.com/tensorcore)]
 - [博士課程を振り返って](https://ssr-yuki.github.io/yukipedia/misc/feelings_in_doctoral_journey) [2025, [@ssr-yuki](https://github.com/ssr-yuki)]
+- [CMUでの博士課程を振り返る](https://sff8.hatenablog.com/entry/2025/10/26/155806) [2025, [@s1wase](https://x.com/s1wase)]
 - [博士課程で得られたもの・失ったもの](https://www.0x0c.me/2023/12/phd) [2023, [Akira MATSUDA](https://www.0x0c.me/)]
 - [情報系博士課程修了までに経験したこと・感じたことに関する独り言](https://note.com/_mhirano/n/nc4c256993263) [2023, [@\_mhirano](https://twitter.com/_mhirano)]
 - [凡人による社会人博士課程生存戦略](https://zenn.dev/hidetoshi/articles/20230401_doctoral-course-strategy) [2023, [@Hidetoshi\_RM](https://twitter.com/hidetoshi_rm)]
@@ -260,6 +262,7 @@ Awesome CS-Ja PhD Life
 
 - [社会人学生に関するサイトまとめ](https://yumulog.hatenablog.com/entry/20120205/1328442737) [2020, [@yumu19](https://twitter.com/yumu19)]
 - 社会人学生 Advent Calendar
+  [[2025]](https://adventar.org/calendars/12272)
   [[2024]](https://adventar.org/calendars/10520)
   [[2023]](https://adventar.org/calendars/9433)
   [[2022]](https://adventar.org/calendars/7910)
@@ -273,6 +276,7 @@ Awesome CS-Ja PhD Life
 - 研究留学 Advent Calendar
   [[2017]](https://adventar.org/calendars/2562)
   [[2019]](https://adventar.org/calendars/4026)
+  [[2025]](https://adventar.org/calendars/12626)
 - [訪問研究0週目](https://note.com/moskomule/n/n36b72d07bebb) [2021, [@mosko_mule](https://twitter.com/mosko_mule)]
 - [フランスの地方都市に半年間留学した話（研究編・前編）](https://note.com/namicha/n/n47b864b87384) [2018, [@namicha_1](https://twitter.com/namicha_1)]
 - [ミシガン大学に滞在して研究した話](https://hermite.jp/post/2022/statsml/) [2022, [Han Bao](https://hermite.jp/)]
@@ -307,6 +311,10 @@ Awesome CS-Ja PhD Life
   [[2021]](https://adventar.org/calendars/6523)
   [[2022]](https://adventar.org/calendars/7901)
   [[2023]](https://adventar.org/calendars/9287)
+  [[2024]](https://adventar.org/calendars/10549)
+  [[2025]](https://adventar.org/calendars/11477)
+- [博士課程 Advent Calendar]
+  [[2014]](https://adventar.org/calendars/548)
 - [カーネギーメロン大学での1年目を振り返る](https://sff8.hatenablog.com/entry/2021/08/08/170310) [2021, [@s1wase](https://twitter.com/s1wase)]
 - [CMU HCII 探検記](https://note.com/hciphds/n/na4798b37a0d2) [2021, [@rikky0611](https://twitter.com/rikky0611)]
 - [博士課程2年の備忘録 (2021.2-2022.1)](https://kei18.github.io/note/posts/20220130_essay/) [2022, [@\_kei18](https://twitter.com/_kei18)]
