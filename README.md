@@ -35,6 +35,7 @@ Awesome CS-Ja PhD Life
 - [研究とは何か](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/research_memo.htm) [2023, [Akimasa Morihata](https://www.graco.c.u-tokyo.ac.jp/labs/morihata/)]
 - [博士課程をゴリ押しする怪文書](https://note.com/66mh/n/ne5b679ceb630) [2024, [@66mh](https://x.com/66mh)]
 - [博士課程の失敗記を30個集めて、教訓を抽出した](https://note.com/h_in_lab/n/n0dbf93f7e901) [2025, [@h\_in\_lab](https://note.com/h_in_lab)]
+- [それでも私が研究を続ける理由](https://www.slideshare.net/slideshow/ss-244719834/244719834) [2021, [谷中瞳](https://x.com/verypluming)]
 
 ## 研究の進め方 ☕
 
